@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/sr3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Real-Time 3D Object Detection with Inference-Aligned Learning <font color=red>(Oral)</font>\\
