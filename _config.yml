@@ -21,13 +21,13 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Chenyu Zhao (赵晨宇)"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
-  location         : "Singapore"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=oLh2Zz0AAAAJ&hl"
   email            : "rayeren613@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "ZhaoCY-ai"
   google_plus      :
   keybase          :
   instagram        :
